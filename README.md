@@ -1,9 +1,9 @@
 # pool-vision
 
-Use some CV to process videofeed of a pool table, and project the trajectories onto the table.
+Independent CV project to process video of a pool table and predict trajectories. Helps you advance from a pool-noob to a pool-master!
 
 ## Overview
-A CV project made to practice using traditional methods (no learning methods). Uses contours, edges, Hough transforms, and cross-correlation to locate and transform all the items in frame.
+The code involves no learning methods - the scope of the project was to practice using traditional methods. Calculations are based on contours, edges, Hough transforms, and cross-correlation.
 
 ![Demo diagram](demo.png)
 ![Demo gif](demo.gif)
